@@ -9,4 +9,4 @@ https://machinelearningmastery.com/author/jasonb/
 I trained the models on a AWS EC2 GPU instance follwing this tutorial from Data Camp:
 https://www.datacamp.com/community/tutorials/deep-learning-jupyter-aws
 
-Any suggestions are wellcome. 
+Any suggestions are welcome. 
