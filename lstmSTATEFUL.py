@@ -1,3 +1,10 @@
+"""
+I took this model from https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
+
+All credits go to Jason Brownlee: https://machinelearningmastery.com/author/jasonb/
+
+"""
+
 import numpy
 import string
 from keras.models import Sequential
