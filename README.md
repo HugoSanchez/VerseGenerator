@@ -1,4 +1,4 @@
-#VerseGenerator
+##VerseGenerator
 
 Following Jason Brownlee tutorial I am trying to build a simple RNN model that generates new rap song verses with Notoriuos BIG famous style and tweet's it automatically.
 
